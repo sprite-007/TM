@@ -1,4 +1,2 @@
 This is FileB.
 This is change to the file.
-Let's make a change.
-Make another change ( merge strategy )
